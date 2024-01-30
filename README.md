@@ -5,7 +5,7 @@ A total of 10 homework were given in this course. Each assignment has a differen
 
 ## Summary
 
-Briefly, the homework were as follows:
+Briefly, the assignments were as follows:
 
 - `Homework 1`: Comparison of different RGB to Gray scaler converters
   
@@ -17,7 +17,7 @@ Briefly, the homework were as follows:
   
 - `Bonus Homework`: Implementation and Performance Analysis of KMeans 
   
-- `Homework 5`: NMF vs. K-means
+- `Homework 5`: NMF vs. KMeans
   
 - `Homework 6`: Implementation and Performance Analysis of Page Rank Algorithm
   
